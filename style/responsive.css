@@ -1,0 +1,299 @@
+@media screen and (max-width:1200px) {
+    
+
+.header{
+    width: 98%;
+}
+.header-2{
+    width: 98%;
+}
+
+.header-3{
+    width: 98%;
+}
+
+.header-4{
+    width: 98%;
+}
+
+.footer{
+    width: 100%;
+    padding: auto;
+}
+.footer .div{
+    width: 25%;
+}
+.nav__container{
+    width: 100%;
+}
+.header-2__cards__card{
+    width: 31%;
+}
+}
+@media screen and (max-width:1130px){
+    .oyna__navbar{
+        width: 98%;
+    }
+}
+
+
+
+@media screen and (max-width:961px) {
+    .header-3__cards p{
+        font-size: 14px;
+    }
+    .header-3__yangiliklar__cards2 div .content p{
+        font-size: 12px;
+    }
+    .header-3__yangiliklar__cards2 div .content h4{
+        font-size: 14px;
+    }
+    .nav__container{
+        height: auto;
+    }
+    .nav__container p{
+        float: none;
+        margin: auto;
+        text-align: center;
+    }
+    .nav__container button{
+        float: none;
+        margin: auto ;
+        display: block;
+    }
+    .nav {
+        height: auto;
+        padding-bottom: 20px;
+    }
+}
+@media screen and (max-width:840px){
+    .oyna__navbar ul{
+        width: 100%;
+        float: none;
+        margin: auto;
+        display: inline-block;
+    }
+    .oyna__navbar p{
+        float: none;
+        text-align: center;
+    }
+    .oyna__navbar ul li{
+        width: 16.5%;
+    }
+    .oyna__navbar ul li a{
+        padding: 0;
+    }
+    .header-2__cards__card{
+        width: 48%;
+    }
+    .header__cards{
+        width: 80%;
+    }
+    .header__cards__card{
+        width: 30%;
+        height: 200px;
+    }
+    .header__cards__card h4{
+        font-size: 13px;
+    }
+    .header__cards__card p{
+        font-size: 10.5px;
+    }
+    .header__cards__card i{
+        font-size: 20px;
+    }
+    .header-4__cards__card .content p{
+        font-size: 13px;
+    }
+    .header-4__cards__card .content{
+        width: 59%;
+    }
+    .nav{
+        padding-top: 10px;
+    }
+    .nav__container p{
+        font-size: 20px;
+        line-height: 20px;
+        margin: 30px 0;
+    }
+    .footer .div{
+        width: 50%;
+        height: 100px;
+    }
+}
+
+
+@media screen and (max-width:669px){
+    .oyna__navbar ul li a{
+        font-size: 10.5px;
+        text-align: center;
+    }
+    .header__cards__card{
+        width: 100%;
+        margin: 0;
+        height: 200px;
+        background: none;
+        box-shadow: 0 0 5px #999;
+
+
+    }
+    .header__cards__card:hover{
+        box-shadow: inset 0 0 5px #999;
+
+    }
+    .header__cards__card:nth-child(2):hover{
+        box-shadow: inset 0 0 5px #999;
+    }
+    .header__cards__card:nth-child(1){
+        border-right:1px solid #f0f0f0;
+        background: linear-gradient(to right , #fff, #fff);
+    }
+    .header__cards__card:nth-child(2){
+        border-right:1px solid #f0f0f0;
+        background: linear-gradient(to right , #fff, #fff);
+        box-shadow: 0 0 5px #999;
+    }
+
+    .header__cards__card:nth-child(3){
+        border-left:1px solid #f0f0f0;
+        background: linear-gradient(to left , #fff, #fff);
+    }
+    .header__cards__card h4{
+        font-size: 15px;
+    }
+    .header__cards__card p{
+        font-size: 15px;
+    }
+    .header__cards__card i{
+        font-size: 25px;
+    }
+
+    .header-2__cards__card{
+        width: 100%;
+        margin: 5px 0;
+    }
+
+
+
+    .header-3__yangiliklar__cards2{
+        height: auto;
+        padding-bottom: 150px;
+    }
+
+    .header-3__cards__card-1{
+        width: 100%;
+        height: 250px;
+        margin: 0 3.5% 3.5% 0;
+        float: none;
+        clear: both;
+
+    
+    
+    }
+    .header-3__cards__card-2{
+        width: 100%;
+        height: auto;
+        margin: 0 0 3.5% 0;
+        float: left;
+    }
+    .header-3__cards__card-2 .content{
+        width: 50%;
+    }
+    .header-3__cards__card-2 .img{
+        width: 50%;
+        height: 150px;
+        float: right;
+    }
+
+    .header-3__cards__card-3{
+        width: 25%;
+        height: 35%;
+        float: right;
+        margin: 0;
+        clear: right;
+    }
+    .header-3__cards__card-4{
+        width: 100%;
+        height: 150px;
+        margin: 0;
+        float: left;
+    }
+    .header-3__cards__card-4 .content{
+        float: right;
+    }
+    .header-3__cards__card-4 .img{
+        height: 150px;
+        float: left;
+    }
+    .header-3__cards__card-3{
+        width: 25%;
+        height: 35%;
+        float: right;
+        margin: 0;
+        clear: right;
+    }
+
+    .header-3__cards__card-6{
+        clear: right;
+        width: 100%;
+        height: auto;
+        float: left;
+        position: unset;    
+        margin: 15px 0;
+    }
+    .header-3__cards__card-6 .content{
+        width: 50%;
+        float: left;
+    }
+    .header-3__cards__card-6 .img{
+        width: 50%;
+        height: 150px;
+        float: right;
+    }
+    .header-3__cards__card-5{
+        clear: both;
+        width: 50%;
+        height: 150px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    
+    }
+    .header-3__cards__card-3{
+        clear: both;
+        width: 50%;
+        height: 150px;
+        margin: 0;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .header-4__cards{
+        height: auto;
+    }
+    .header-4__cards i:nth-child(1){
+        display: none;
+    }
+    .header-4__cards i:nth-child(3){
+        display: none;
+
+    }
+    .header-4__cards__card .img{
+        margin: 2.5%;
+        width: 95%;
+        float: none;
+    }
+    .header-4__cards__card .content{
+        width: 100%;
+        height: auto;
+        float: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .footer .div{
+        width: 100%;
+        text-align: center;
+    }
+}
+
